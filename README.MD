@@ -163,9 +163,8 @@ The model learns patterns specific to the dataset used. For real-world deploymen
 ---
 
 ## Author
-
-This project was developed to demonstrate knowledge in applied Machine Learning, backend development with FastAPI, and frontend development with React.
-
+Bruno Simon
+Full stack Machine Learning project developed for educational and technical demonstration purposes, focusing on neural networks, API integration, and frontend-backend communication.
 ---
 
 # pt-BR
@@ -346,5 +345,5 @@ O modelo aprende padrões específicos do dataset utilizado. Para uso real em pr
 ---
 
 ## Autor
-
-Projeto desenvolvido para demonstrar conhecimentos em Machine Learning aplicado, backend com FastAPI e frontend com React.
+Bruno Simon
+Projeto full stack com Machine Learning desenvolvido para fins educacionais e demonstração técnica, com foco em redes neurais, integração via API e comunicação entre frontend e backend.
